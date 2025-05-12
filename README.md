@@ -1,5 +1,5 @@
 # PractisedJSCode
- JavaScript Challenges
+ JavaScript Challenges from LeetCode
 
 ## 1. CREATING HELLO WORLD FUNCTION  
 Write a function createHelloWorld. It should return a new function that always returns "Hello World".
